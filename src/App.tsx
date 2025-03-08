@@ -6,7 +6,7 @@ import { StartAttempt } from "./components/StartAttempt";
 import { TwoDice } from "./components/TwoDice";
 import { CycleHoliday } from "./components/CycleHoliday";
 import { Counter } from "./components/Counter";
-
+//react.jsx
 function App(): React.JSX.Element {
     return (
         <div className="App">
