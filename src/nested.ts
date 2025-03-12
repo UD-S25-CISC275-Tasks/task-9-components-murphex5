@@ -216,7 +216,6 @@ export function editOption(
  * the duplicate inserted directly after the original question. Use the `duplicateQuestion`
  * function you defined previously; the `newId` is the parameter to use for the duplicate's ID.
  */
-
 export function duplicateQuestionInArray(
     questions: Question[],
     targetId: number,
